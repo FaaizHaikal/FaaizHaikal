@@ -1,9 +1,3 @@
-<h3 align="center">
-    <samp>Welcome! I am 
-      <a style="text-decoration: none;">Faa'iz Haikal Hilmi</a>
-    </samp>
-</h3>
-
 ## Skills
 
 ### Languages
